@@ -30,7 +30,6 @@ function showMovie(term) {
   var queryUrl = "http://www.omdbapi.com/?t=" + term + "&y=&plot=short&apikey=trilogy";
 
   // This line is just to help us debug against the actual URL.
-  console.log(queryUrl);
 
   request(queryUrl, function (error, response, body) {
 
@@ -45,7 +44,7 @@ function showMovie(term) {
         "Movie: " + jsonData.Title,
         "Release Year: " + jsonData.Year,
         "Rating: " + jsonData.imdbRating,
-        "Rotten Tomatoe Rating: " + jsonData.Rating,
+        // "Rotten Tomato Rating: " + jsonData.Ratings,
         "Language: " + jsonData.Language,
         "Country:" + jsonData.Country,
         "Actors:" + jsonData.Actors,
