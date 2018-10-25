@@ -5,3 +5,101 @@ Location: Las Vegas
 Date of Event: 2018-12-30T19:00:48
 ------------------------------------------------------------
 
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: October 25th 2018
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: October 25th 2018
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 2018-12-30T19:00:48
+------------------------------------------------------------
+
+Venue: IP Casino Resort and Spa
+
+Location: Biloxi
+
+Date of Event: 2018-10-26T20:00:00
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: Oct Th yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: Oct Th yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: Oct Th yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 10/Th/yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 10/Thu/yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 10/Thu/yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 10/Th/yyyy
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 30-12-2018
+------------------------------------------------------------
+
+Venue: Mandalay Bay Events Center
+
+Location: Las Vegas
+
+Date of Event: 12/30/2018
+------------------------------------------------------------
+
+Venue: IP Casino Resort and Spa
+
+Location: Biloxi
+
+Date of Event: 10/26/2018
+------------------------------------------------------------
+
