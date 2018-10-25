@@ -1,5 +1,5 @@
-var request = require("request");
-var moment = require('moment');
+const request = require("request");
+const moment = require('moment');
 var fs = require("fs");
 
 // Create the TV constructor
@@ -14,17 +14,17 @@ var Band = function () {
 
         request(queryUrl, function (err, response, body) {
             // Parse the response body (string) to a JSON object
-            // Grab the first index of the response array, access the object at the artist` key
+            // Grab the first index of the response array, access the object at the artist  key
 
-            var jsonData = JSON.parse(body)[0];
-            // console.log(jsonData.venue.name);
-            var dt = jsonData.datetime.moment;
+            let jsonData = JSON.parse(body)[0];
+            let date = moment(jsonData.datetime).format('MM/DD/YYYY');
+
 
             // bandData ends up being the string containing the show data we will print to the console
             var bandData = [
                 "Venue: " + jsonData.venue.name,
                 "Location: " + jsonData.venue.city,
-                "Date of Event: " + dt
+                "Date of Event: " + date
             ].join("\n\n");
 
             // Append movieData and the divider to log.txt, print showData to the console
@@ -32,7 +32,6 @@ var Band = function () {
                 if (err) throw err;
                 console.log(bandData);
             });
-        });
     };
 };
 
